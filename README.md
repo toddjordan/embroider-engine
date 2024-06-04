@@ -1,25 +1,25 @@
 # embroider-engine
 
-[Short description of the addon.]
+A minimal engine build with embroider.
 
 
 ## Compatibility
 
-* Ember.js v3.24 or above
-* Ember CLI v3.24 or above
-* Node.js v12 or above
+* Ember.js v4.4 or above
+* Ember CLI v4.4 or above
+* Node.js v16 or above
 
-
-## Installation
-
-```
-ember install embroider-engine
-```
 
 
 ## Usage
 
-[Longer description of how to use the addon in apps.]
+Start the server
+```
+ember s
+```
+
+Then go to `http://localhost:4200`
+click on the link.
 
 
 ## Contributing
